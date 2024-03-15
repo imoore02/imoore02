@@ -1,4 +1,4 @@
-### -m "Hello! Welcome to my github!👋 Now,"
+### -m "Hello! Welcome to my github!👋 Now, go ahead and"
 ## git checkout this-cool-stuff 😙👀
 <!--
 **imoore02/imoore02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
