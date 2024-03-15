@@ -1,8 +1,5 @@
-### git checkout this-cool-stuff
-### git commit -m ✨"Welcome to my Github!✨ "
-
-🌱 Follow me on my coding journey.
-
+### git checkout this-cool-stuff 😙👀
+### git commit -m ✨"Welcome to my Github!👋 "
 <!--
 **imoore02/imoore02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
